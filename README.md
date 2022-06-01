@@ -1,7 +1,7 @@
 ## Welcome! :wave:
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="120" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=sold666&style=flat-square&color=blue" alt=""/>
 
