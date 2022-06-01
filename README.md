@@ -12,6 +12,6 @@
 </div>
 
 ### :bar_chart: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sold666&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sold666&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sold666&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sold666&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
