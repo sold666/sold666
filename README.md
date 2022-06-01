@@ -1,5 +1,3 @@
-## Welcome! :wave:
-
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="200" />
 </div>
