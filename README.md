@@ -1,6 +1,3 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="200" />
-</div>
 <img src="https://komarev.com/ghpvc/?username=sold666&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
