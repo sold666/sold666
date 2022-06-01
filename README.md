@@ -1,11 +1,9 @@
+## Welcome! :wave:
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" />
+  <img src="https://komarev.com/ghpvc/?username=sold666&style=flat-square&color=blue" alt=""/>
 </div>
-<h2>
-  Welcome!
-</h2>
-
-<img src="https://komarev.com/ghpvc/?username=sold666&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
