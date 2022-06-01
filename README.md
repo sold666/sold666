@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=sold666&style=flat-square&color=blue" alt=""/>
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-
+---
 ### :bar_chart: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sold666&theme=dracula)](https://git.io/streak-stats)
 
