@@ -12,9 +12,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-
 ---
+
 ### :bar_chart: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sold666&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sold666&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### :round_pushpin: Contact me :
+<a href="https://t.me/solddddd">
+ <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="vlad korzh telegram profile" height="30" width="30">
+</a>
+<a href="https://vk.com/sold666">
+ <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vlad korzh vk profile" height="30" width="30">
+</a>  
