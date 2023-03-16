@@ -15,7 +15,7 @@
 ### :bar_chart: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sold666&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sold666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sold666&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :round_pushpin: Contact me :
 <a href="https://t.me/solddddd">
