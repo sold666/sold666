@@ -22,3 +22,6 @@
 <a href="https://vk.com/sold666">
  <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vlad korzh vk profile" height="30" width="30">
 </a>  
+
+### :globe_with_meridians: Check out my CV website :
+[Hello world!](https://sold666.github.io/)
