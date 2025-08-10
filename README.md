@@ -7,7 +7,7 @@
 
 ### :round_pushpin: Contact me :
 <a href="https://www.linkedin.com/in/sold666/">
-  <img src="https://imgur.com/a/GZ7sGMW" alt="LinkedIn" height="50" width="50">
+  <img src="https://imgur.com/a/GZ7sGMW.png" alt="LinkedIn" height="50" width="50">
 </a>
 <a href="https://t.me/solddddd">
  <img src="https://i.imgur.com/0NgZlc6.png" alt="Telegram" height="50" width="50">
