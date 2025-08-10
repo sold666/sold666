@@ -7,13 +7,13 @@
 
 ### :round_pushpin: Contact me :
 <a href="https://www.linkedin.com/in/sold666/">
-  <img src="https://imgur.com/a/GZ7sGMW.png" alt="LinkedIn" height="50" width="50">
+  <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c302af4f-42b4-48ca-b26b-16413e6eb0f0" />
 </a>
 <a href="https://t.me/solddddd">
- <img src="https://i.imgur.com/0NgZlc6.png" alt="Telegram" height="50" width="50">
+  <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c65e95b5-1509-4c62-b747-96eeaab6d675" />
 </a>
 <a href="https://vk.com/sold666">
- <img src="https://i.imgur.com/SqhFjmu.png" alt="VK" height="50" width="50">
+ <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/2dc0c859-a64b-417e-8da5-8dd7acfab6c5" />
 </a>  
 
 ### :globe_with_meridians: Check out my CV website :
